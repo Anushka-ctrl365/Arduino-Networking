@@ -6,7 +6,6 @@ This repository contains a series of experiments performed to study Ethernet-bas
 
 The objective of the project was to understand SPI communication, TCP/IP networking, Ethernet communication, and the implementation of network topologies using embedded systems.
 
----
 
 ## Hardware Used
 
@@ -20,7 +19,6 @@ The objective of the project was to understand SPI communication, TCP/IP network
 * LEDs
 * Jumper Wires
 
----
 
 ## Experiments
 
@@ -40,7 +38,6 @@ Communication between two W5500 Ethernet Modules through a router.
 
 Implementation and testing of a bus topology architecture using Ethernet Shields and W5500 Ethernet Modules.
 
----
 
 ## Technologies Used
 
@@ -51,4 +48,3 @@ Implementation and testing of a bus topology architecture using Ethernet Shields
 * W5500 Ethernet Controller
 
 
-VIT Vellore
