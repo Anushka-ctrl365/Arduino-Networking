@@ -12,7 +12,6 @@ To verify communication between two W5500 Ethernet Modules connected to separate
 * LAN Cables (2)
 * Push Button
 * LED
-* Breadboard
 * Jumper Wires
 
 ## Network Configuration
