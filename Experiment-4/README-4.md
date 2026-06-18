@@ -2,7 +2,7 @@
 
 ## Aim
 
-To implement a bus topology using Arduino Uno boards, Ethernet Shields and W5500 Ethernet Modules and verify end-to-end communication between distributed nodes.
+To implement a star topology using Arduino Uno boards, Ethernet Shields and W5500 Ethernet Modules and verify end-to-end communication between distributed nodes.
 
 ## Hardware Used
 
@@ -63,7 +63,7 @@ The receiver node processes the received command and controls the LED accordingl
 
 ## Result
 
-Individual communication links were successfully established and verified. The complete bus topology architecture was implemented and tested through multiple iterations.
+Individual communication links were successfully established and verified. The complete star topology architecture was implemented and tested through multiple iterations.
 
 ## Conclusion
 
